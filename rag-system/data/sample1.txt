@@ -1,0 +1,34 @@
+Sample Document 1: Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence (AI) that focuses on the development 
+of algorithms and statistical models that enable computers to learn from and make predictions 
+on data without being explicitly programmed.
+
+Key concepts in machine learning include:
+
+1. Supervised Learning: Models learn from labeled training data to make predictions on 
+   unseen data. Examples include regression and classification.
+
+2. Unsupervised Learning: Models discover hidden patterns in unlabeled data. Common techniques 
+   include clustering and dimensionality reduction.
+
+3. Reinforcement Learning: Models learn through trial and error by receiving rewards or 
+   penalties for their actions.
+
+4. Training and Testing: The process of fitting a model to training data and evaluating 
+   its performance on test data.
+
+5. Overfitting and Underfitting: Two common problems where a model either learns noise in 
+   the training data or fails to learn the underlying patterns.
+
+Applications of machine learning include:
+- Natural Language Processing (NLP)
+- Computer Vision
+- Recommendation Systems
+- Autonomous Vehicles
+- Medical Diagnosis
+- Fraud Detection
+
+The field of machine learning has grown tremendously with the availability of large datasets 
+and computational resources. Modern deep learning approaches using neural networks have 
+achieved state-of-the-art results in many domains.

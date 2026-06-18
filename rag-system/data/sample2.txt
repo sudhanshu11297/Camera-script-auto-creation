@@ -1,0 +1,38 @@
+Sample Document 2: Understanding Neural Networks
+
+Neural networks are computing systems inspired by biological neural networks found in 
+animal brains. They consist of interconnected nodes (neurons) organized in layers that 
+process information.
+
+Architecture of Neural Networks:
+
+1. Input Layer: Receives raw input data
+2. Hidden Layers: Process the input through learned weights and biases
+3. Output Layer: Produces the final prediction or classification
+
+Key Components:
+
+- Neurons: Individual processing units that apply activation functions
+- Weights: Parameters that are learned during training
+- Biases: Additional learnable parameters that add flexibility
+- Activation Functions: Non-linear functions like ReLU, Sigmoid, Tanh
+- Loss Function: Measures the difference between predictions and actual values
+- Optimizer: Updates weights to minimize the loss (e.g., SGD, Adam)
+
+Types of Neural Networks:
+
+1. Feedforward Neural Networks: Information flows in one direction
+2. Convolutional Neural Networks (CNNs): Specialized for image processing
+3. Recurrent Neural Networks (RNNs): Handle sequential data
+4. Transformers: State-of-the-art for NLP tasks
+5. Autoencoders: Used for unsupervised learning
+
+Training Process:
+
+1. Forward Pass: Input flows through the network
+2. Compute Loss: Compare output with expected result
+3. Backward Pass: Calculate gradients
+4. Update Weights: Adjust parameters using gradients
+
+Deep learning, which uses neural networks with multiple layers, has revolutionized 
+various fields including computer vision, natural language processing, and gaming AI.
